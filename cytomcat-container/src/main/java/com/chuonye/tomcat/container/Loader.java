@@ -37,7 +37,7 @@ import com.chuonye.tomcat.container.core.Context;
 /**
  * web 应用类加载器，主要从 /WEB-INF/classes 和 /WEB-INF/lib 中加载类
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Loader extends URLClassLoader {
     final static Logger log = LoggerFactory.getLogger(Loader.class);
@@ -324,8 +324,6 @@ public class Loader extends URLClassLoader {
 
     /**
      * 缓存的已加载类资源
-     * 
-     * @author wskwbog
      */
     public static class ResourceEntry {
         /** 0=其他资源，1=从 WEB-INF/classes 加载的资源 */

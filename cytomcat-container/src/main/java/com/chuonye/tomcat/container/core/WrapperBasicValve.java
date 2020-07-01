@@ -32,7 +32,7 @@ import com.chuonye.tomcat.container.servletx.Response;
 /**
  * Wrapper 处理通道固定尾节点，加载 Servlet，创建 FilterChain，调用 Servlet.service 方法
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class WrapperBasicValve extends Valve {
     final static Logger log = LoggerFactory.getLogger(WrapperBasicValve.class);

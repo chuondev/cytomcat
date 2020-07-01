@@ -36,7 +36,7 @@ import com.chuonye.tomcat.container.core.Wrapper;
 /**
  * 实现 FilterChain 责任链模式
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class AppFilterChain implements FilterChain {
     final static Logger log = LoggerFactory.getLogger(AppFilterChain.class);

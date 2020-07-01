@@ -22,7 +22,7 @@ import com.chuonye.tomcat.util.digester.Rule;
 /**
  * 对栈顶对象调用某个方法，可配置方法参数个数以及参数类型，默认参数个数为 1，参数的值使用元素节点的文本内容
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class CallMethodRule extends Rule {
 

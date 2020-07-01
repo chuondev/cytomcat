@@ -28,7 +28,7 @@ import com.chuonye.tomcat.net.NioChannel;
 /**
  * 编码响应
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class OutputBuffer implements Recyclable {
     final static Logger log = LoggerFactory.getLogger(OutputBuffer.class);

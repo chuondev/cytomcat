@@ -23,7 +23,7 @@ import com.chuonye.tomcat.util.digester.Rule;
 /**
  * 设置类之间的组合关系，假设栈顶元素为 a，下一个元素为 b，则调用 b.setXX(a)，将 a 设置为 b 的成员
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class SetNextRule extends Rule {
     final static Logger log = LoggerFactory.getLogger(SetNextRule.class);

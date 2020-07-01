@@ -25,7 +25,7 @@ import com.chuonye.tomcat.container.servletx.Response;
 /**
  * 阀门抽象类，这个类取义于现实生活中的管道阀门的概念。所有的阀门都有机会处理请求和响应
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public abstract class Valve {
     protected Container container = null;

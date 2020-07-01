@@ -22,7 +22,7 @@ import com.chuonye.tomcat.util.digester.Rule;
 /**
  * 与 CallMethodRule 对应，获取其配置的参数，既能获取某个属性值，也能使用文本内容
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class CallParamRule extends Rule {
 

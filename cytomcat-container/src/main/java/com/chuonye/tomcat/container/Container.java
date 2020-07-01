@@ -32,7 +32,7 @@ import java.util.HashMap;
  * 每个容器都会启动一个后台线程，周期性的做一些工作，Context 会检查类是否要热
  * 加载，Session 是否过期；Wrapper 检查是否要重新加载 Servlet
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public abstract class Container extends Lifecycle {
     

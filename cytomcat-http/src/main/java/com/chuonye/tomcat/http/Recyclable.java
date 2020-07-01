@@ -18,7 +18,7 @@ package com.chuonye.tomcat.http;
 /**
  * 可回收重复利用的对象
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public interface Recyclable {
     /**

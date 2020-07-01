@@ -24,7 +24,7 @@ import com.chuonye.tomcat.util.digester.Rule;
 /**
  * 根据 xml 元素属性名，反射调用栈顶元素的 set 方法，设置对应的成员变量值
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class SetFieldsRule extends Rule {
     final static Logger log = LoggerFactory.getLogger(SetFieldsRule.class);

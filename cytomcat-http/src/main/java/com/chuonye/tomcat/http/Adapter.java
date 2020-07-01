@@ -20,7 +20,7 @@ import java.io.IOException;
 /**
  * 容器适配器，用于连接 Endponit 和 Container
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public interface Adapter {
     

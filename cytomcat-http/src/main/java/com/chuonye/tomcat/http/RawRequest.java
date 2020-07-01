@@ -26,7 +26,7 @@ import com.chuonye.tomcat.http.ActionHook.ActionCode;
 /**
  * 原始的 Http 请求对象，包含请求方法、请求参数、uri、请求头域
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class RawRequest implements Recyclable {
 	private String method; // GET POST ..

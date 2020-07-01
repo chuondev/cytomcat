@@ -24,7 +24,7 @@ import com.chuonye.tomcat.util.digester.Rule;
 /**
  * 创建对象规则，根据配置的 className 新建对象并压入栈顶
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class ObjectCreateRule extends Rule {
     final static Logger log = LoggerFactory.getLogger(ObjectCreateRule.class);

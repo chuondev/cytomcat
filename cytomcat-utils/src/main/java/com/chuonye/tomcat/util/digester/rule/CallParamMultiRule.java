@@ -20,7 +20,7 @@ import java.util.ArrayList;
 /**
  * 配置多次调用某个方法，重复使用的参数，主要用于 addServletMapping 和 addFilterMapping
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class CallParamMultiRule extends CallParamRule {
     public CallParamMultiRule(int paramIndex) {

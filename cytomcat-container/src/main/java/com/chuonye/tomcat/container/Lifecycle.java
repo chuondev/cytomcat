@@ -22,7 +22,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 /**
  * 生命周期抽象类，为组件的初始化、启动和停止提供统一的机制
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public abstract class Lifecycle {
     

@@ -26,7 +26,7 @@ import com.chuonye.tomcat.net.Processor;
 /**
  * 连接器，它主要提供 xml 配置功能，比如指定端口，超时时间等
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Connector {
 

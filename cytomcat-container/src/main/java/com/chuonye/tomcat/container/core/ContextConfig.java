@@ -29,7 +29,7 @@ import com.chuonye.tomcat.util.digester.Digester;
 /**
  * 容器 Context 声明周期监听类，用于配置和启动
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class ContextConfig implements LifecycleListener {
     final static Logger log = LoggerFactory.getLogger(ContextConfig.class);

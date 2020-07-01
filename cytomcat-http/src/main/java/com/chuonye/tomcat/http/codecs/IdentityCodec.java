@@ -26,7 +26,7 @@ import com.chuonye.tomcat.http.OutputBuffer;
 /**
  * content-length 定长解码和编码
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class IdentityCodec implements BodyCodec {
     

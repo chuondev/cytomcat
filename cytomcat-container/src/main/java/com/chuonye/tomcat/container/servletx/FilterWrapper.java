@@ -31,7 +31,7 @@ import com.chuonye.tomcat.container.core.Context;
 /**
  * 封装  Filter - class、name、urlPatterns
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class FilterWrapper implements FilterConfig {
     final Logger log = LoggerFactory.getLogger(FilterWrapper.class);

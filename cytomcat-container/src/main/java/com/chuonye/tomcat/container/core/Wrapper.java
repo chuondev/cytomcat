@@ -31,7 +31,7 @@ import com.chuonye.tomcat.container.Loader;
 /**
  * 与 Servlet 一一对应，管理实现 Servlet 生命周期方法，加载、初始化和销毁
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Wrapper extends Container implements ServletConfig {
     final static Logger log = LoggerFactory.getLogger(Wrapper.class);

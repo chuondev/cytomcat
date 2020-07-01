@@ -18,12 +18,11 @@ package com.chuonye.tomcat.http;
 /**
  * 容器对 Processor 请求操作的回调机制
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public interface ActionHook {
     /**
      * 容器对 Processor 的回调动作
-     * @author wskwbog
      */
     public enum ActionCode {
         ACK,

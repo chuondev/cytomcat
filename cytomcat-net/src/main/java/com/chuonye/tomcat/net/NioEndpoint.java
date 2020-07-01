@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 负责整个服务的启动、停止和初始化
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class NioEndpoint {
     final static Logger log = LoggerFactory.getLogger(NioEndpoint.class);

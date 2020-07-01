@@ -33,7 +33,7 @@ import com.chuonye.tomcat.container.core.Context;
 /**
  * 实现 ServletContext
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class AppContext implements ServletContext {
 

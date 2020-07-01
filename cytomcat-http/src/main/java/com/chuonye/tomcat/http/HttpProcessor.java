@@ -29,7 +29,7 @@ import com.chuonye.tomcat.net.Handler.SocketState;
 /**
  * HTTP 协议处理器，与底层通道通信
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class HttpProcessor implements Processor, ActionHook {
     final static Logger log = LoggerFactory.getLogger(HttpProcessor.class);

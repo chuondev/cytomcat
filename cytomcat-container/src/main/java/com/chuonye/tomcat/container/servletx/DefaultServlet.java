@@ -32,7 +32,7 @@ import com.chuonye.tomcat.container.core.WebResource.CachedResource;
 /**
  * 默认 Servlet，用于处理静态资源，简单实现了缓存
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class DefaultServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;

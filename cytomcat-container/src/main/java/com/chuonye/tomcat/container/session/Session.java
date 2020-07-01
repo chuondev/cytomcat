@@ -27,7 +27,7 @@ import javax.servlet.http.HttpSessionContext;
 /**
  * 简单实现  HttpSession
  * 
- * @author wskwbog
+ * @author chuonye
  */
 @SuppressWarnings("deprecation")
 public class Session implements HttpSession, Serializable {

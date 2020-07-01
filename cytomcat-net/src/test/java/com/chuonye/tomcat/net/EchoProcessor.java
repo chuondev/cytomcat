@@ -33,7 +33,7 @@ import com.chuonye.tomcat.net.Handler.SocketState;
  * 可直接运行进行测试，测试时，连接后可以先敲几次回车，因为如果是 Windows 的
  * cmd 首次输入可能看不见。
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class EchoProcessor implements Processor {
     final static Logger log = LoggerFactory.getLogger(EchoProcessor.class);

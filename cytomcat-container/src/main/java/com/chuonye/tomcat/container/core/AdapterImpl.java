@@ -34,7 +34,7 @@ import com.chuonye.tomcat.http.RawResponse;
 /**
  * 适配容器，主要是映射 Servlet，尝试从 Cookie 中解析 Session ID
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class AdapterImpl implements Adapter {
 

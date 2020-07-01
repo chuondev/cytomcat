@@ -23,7 +23,7 @@ import org.xml.sax.Attributes;
 /**
  * 解析过程中遇到 xml 元素时的处理规则
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public abstract class Rule {
     

@@ -32,7 +32,7 @@ import com.chuonye.tomcat.http.Recyclable;
  *  - 支持设置 Cookie<br>
  *  - 支持 PrintWriter 和 ServletOutStream 字符和字节输出流<br>
  *  
- * @author wskwbog
+ * @author chuonye
  */
 public class Response implements HttpServletResponse, Recyclable {
 	private RawResponse rawResp;

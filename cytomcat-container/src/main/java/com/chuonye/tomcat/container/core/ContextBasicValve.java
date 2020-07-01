@@ -27,7 +27,7 @@ import com.chuonye.tomcat.container.servletx.Response;
 /**
  * Context 处理管道固定尾阀门
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class ContextBasicValve extends Valve {
 

@@ -35,7 +35,7 @@ import com.chuonye.tomcat.net.NioChannel;
 /**
  * 使用有限状态机解析 HTTP 协议请求行和请求体
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class InputBuffer implements Recyclable, BufferHolder {
     final Logger log = LoggerFactory.getLogger(InputBuffer.class);
@@ -44,7 +44,6 @@ public class InputBuffer implements Recyclable, BufferHolder {
     private ParseStatus status = ParseStatus.METHOD;
     /**
      * 请求头解析状态
-     * @author wskwbog
      */
     public enum ParseStatus {
         METHOD, // 解析请求方法

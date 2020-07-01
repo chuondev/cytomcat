@@ -24,7 +24,7 @@ import com.chuonye.tomcat.http.ActionHook.ActionCode;
 /**
  * 原始的 Http 响应对象
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class RawResponse  implements Recyclable {
     

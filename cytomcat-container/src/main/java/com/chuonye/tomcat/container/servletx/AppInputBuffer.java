@@ -27,7 +27,7 @@ import com.chuonye.tomcat.http.ActionHook.ActionCode;
 /**
  * 实现 ServletInputStream 从底层读取请求体数据
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class AppInputBuffer extends ServletInputStream implements BufferHolder {
     

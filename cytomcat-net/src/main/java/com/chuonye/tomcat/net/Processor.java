@@ -20,7 +20,7 @@ import com.chuonye.tomcat.net.Handler.SocketState;
 /**
  * 适配不同协议的处理器
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public interface Processor {
 

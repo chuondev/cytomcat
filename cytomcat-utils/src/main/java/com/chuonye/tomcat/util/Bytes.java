@@ -18,7 +18,7 @@ package com.chuonye.tomcat.util;
 /**
  * 字节数组功能类
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public final class Bytes {
     private Bytes() { }

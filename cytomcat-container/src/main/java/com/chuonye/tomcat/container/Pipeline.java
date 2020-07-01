@@ -25,7 +25,7 @@ import com.chuonye.tomcat.container.servletx.Response;
 /**
  * 容器处理流水线，本质就是一个有固定尾节点的链表
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Pipeline {
     protected Container container = null;

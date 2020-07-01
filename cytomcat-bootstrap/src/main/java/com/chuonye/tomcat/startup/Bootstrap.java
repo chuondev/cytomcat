@@ -29,7 +29,7 @@ import java.util.Set;
  * <p>
  * 值得注意的是构建发布版本时，是分开打包的，所以这里是不能识别 Context 等任何其他模块的类，只能使用反射调用它的方法
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Bootstrap {
     static {

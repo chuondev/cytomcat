@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 管理着通道和处理器的映射
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public abstract class Handler {
     final Logger log = LoggerFactory.getLogger(Handler.class);

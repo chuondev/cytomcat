@@ -30,7 +30,7 @@ import java.util.concurrent.ConcurrentMap;
 /**
  * 主要用于缓存 web 应用程序静态资源
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class WebResource {
     

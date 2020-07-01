@@ -46,7 +46,7 @@ import com.chuonye.tomcat.http.Recyclable;
  *  - 对 Session、Cookie 和 请求参数的处理进行了实现<br>
  *  - 支持 ServletInputStream 输入流<br>
  *  
- * @author wskwbog
+ * @author chuonye
  */
 public class Request implements HttpServletRequest, Recyclable {
 	private Response resp;

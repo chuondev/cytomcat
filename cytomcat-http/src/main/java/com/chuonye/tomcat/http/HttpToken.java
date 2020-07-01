@@ -18,7 +18,7 @@ package com.chuonye.tomcat.http;
 /**
  * HTTP 协议相关标识符
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public final class HttpToken {
 	 // http 标识符

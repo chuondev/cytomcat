@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 接收 Socket 连接
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Acceptor implements Runnable {
     final static Logger log = LoggerFactory.getLogger(Acceptor.class);

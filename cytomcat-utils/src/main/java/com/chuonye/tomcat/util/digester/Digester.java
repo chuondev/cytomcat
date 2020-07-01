@@ -44,7 +44,7 @@ import com.chuonye.tomcat.util.digester.rule.SetNextRule;
 /**
  * 依据配置好的规则使用 Sax 解析 XML，只对节点名和属性处理，不处理内容
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Digester extends DefaultHandler {
 

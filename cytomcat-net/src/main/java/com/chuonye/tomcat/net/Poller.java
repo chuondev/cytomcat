@@ -32,7 +32,7 @@ import com.chuonye.tomcat.net.Handler.SocketState;
 /**
  * 事件多路复用器，负责处理读写事件的通知，包括非阻塞和模拟阻塞，同时处理超时的通道
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Poller implements Runnable {
     final static Logger log = LoggerFactory.getLogger(Poller.class);

@@ -30,7 +30,7 @@ import com.chuonye.tomcat.http.ActionHook.ActionCode;
  * <p>
  * 这个原生的 ByteBuffer 确实不好用啊，Tomcat 封装的方法还可以
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class AppOutputBuffer extends ServletOutputStream {
     private RawResponse rawResp;

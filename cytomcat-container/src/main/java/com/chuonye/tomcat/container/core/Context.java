@@ -36,7 +36,7 @@ import com.chuonye.tomcat.container.session.Manager;
 /**
  * 应用程序在内部的表现类，包含 web.xml 配置的参数、Servlet 和 Filter
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Context extends Container {
     final Logger log = LoggerFactory.getLogger(Context.class);

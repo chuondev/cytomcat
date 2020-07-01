@@ -22,7 +22,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * Session 对象管理器，负责生成 SessionId、创建 Session、缓存 Session、周期性检查 Session 是否过期
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class Manager {
 

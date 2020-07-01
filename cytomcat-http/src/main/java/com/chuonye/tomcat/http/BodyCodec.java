@@ -21,7 +21,7 @@ import java.nio.ByteBuffer;
 /**
  * 请求体解码器、响应体编码器
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public interface BodyCodec {
     

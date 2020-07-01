@@ -21,7 +21,7 @@ import java.util.ArrayList;
  * 对栈顶对象多次调用某个方法，次数由 CallParamMultiRule 配置，这里
  * 主要用于 addServletMapping 和 addFilterMapping
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class CallMethodMultiRule extends CallMethodRule {
 

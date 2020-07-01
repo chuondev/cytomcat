@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
  * 对 SocketChannel 的封装，主要包含两个 ByteBuffer 用于读和写；
  * 使用两个 CountDownLatch 实现模拟阻塞，并且提供阻塞读和写的方法
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class NioChannel {
     final static Logger log = LoggerFactory.getLogger(NioChannel.class);

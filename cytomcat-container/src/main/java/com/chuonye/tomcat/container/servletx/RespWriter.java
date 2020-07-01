@@ -6,7 +6,7 @@ import java.io.Writer;
 /**
  * 提供直接写入字符串 Writer 的实现
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class RespWriter extends Writer {
     private AppOutputBuffer out;

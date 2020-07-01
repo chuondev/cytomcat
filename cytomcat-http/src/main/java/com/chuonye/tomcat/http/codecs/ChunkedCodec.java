@@ -27,7 +27,7 @@ import com.chuonye.tomcat.http.OutputBuffer;
 /**
  * chunked 动态长度编码和解码
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class ChunkedCodec implements BodyCodec, BufferHolder {
     

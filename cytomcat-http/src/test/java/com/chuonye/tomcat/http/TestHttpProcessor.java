@@ -13,7 +13,7 @@ import com.chuonye.tomcat.net.Processor;
  * curl 172.31.1.41:10393/index?a=2 -X POST -d "user=abc&passwd=创" -v <br>
  * curl 172.31.1.41:10393 -X POST -H "Transfer-Encoding:chunked" -d "user=abc&passwd=创" -v <br>
  * curl 172.31.1.41:10393 -F "" -v <br>
- * @author wskwbog
+ * @author chuonye
  */
 public class TestHttpProcessor {
     public static void main(String[] args) {

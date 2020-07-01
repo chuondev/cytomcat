@@ -27,7 +27,7 @@ import com.chuonye.tomcat.http.ActionHook.ActionCode;
 /**
  * 这里简单的返回请求信息和服务信息
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public class AdapterImpl implements Adapter {
 

@@ -21,7 +21,7 @@ import java.nio.ByteBuffer;
  * 在读取请求数据时，所有的缓冲区都是底层 NioChannel 中 ByteBuffer
  * 的视图，为了更方便的获取这个视图，提供这样的一个回调接口
  * 
- * @author wskwbog
+ * @author chuonye
  */
 public interface BufferHolder {
     
